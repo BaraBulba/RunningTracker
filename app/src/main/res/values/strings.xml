@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RunningTracker</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+    <string name="google_maps_key"
+        templateMergeStrategy="preserve"
+        translatable="false">AIzaSyBYLfKR4RfyfaLWu2OMYkn5qh5Ks7ocT6M</string>
+    <string name="welcome_nplease_enter_your_name_and_weight">Welcome!\nPlease enter your name and weight.</string>
+    <string name="your_weight">Your Weight</string>
+    <string name="your_name">Your Name</string>
+    <string name="kg">kg</string>
+    <string name="continue_btn">Continue</string>
+</resources>
